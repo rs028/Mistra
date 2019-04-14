@@ -12,8 +12,12 @@ have been made by:
 
 ## Other Authors
 
+In alphabetical order:
+
 * Peter Bräuer
-* Susanne Pechtl
+* Astrid Kerkweg
+* Beiping Luo
+* Susanne Pechtl (b. Marquart)
 * Matthias Piot
 * Rolf Sander
 * Linda Smoydzin
@@ -22,4 +26,4 @@ have been made by:
 
 ## Acknowledgements
 
-## Funding
+* Claire Reeves
